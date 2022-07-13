@@ -1,0 +1,27 @@
+text based adventure game:
+
+college cat has attributes
+
+-name :: String
+-interest :: [Interest, Int]
+-intelligence
+-courses
+-frens
+-assignments
+-health (physical, emo, social)
+-location ::
+-calendar
+
+story:
+-joins college
+-first day interaction, see frens' interests, pick frens
+-random events like birthdays, sick days
+-breakfast, lec, break, lec, 
+-midsems, endsems
+
+gameplay:
+-assignments with frens -> fren ++
+-lectures attend -> intelligence ++
+-study/discuss -> intel, fren ++
+-staying up -> physical --, social ++
+-hobbies -> interests, frens
